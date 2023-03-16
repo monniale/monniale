@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monniale
-- 👀 I’m interested in coding with Java
-- 🌱 I’m currently learning Java,CSS,HTML
+- 👀 I’m interested in coding with React
+- 🌱 I’m currently learning Java,CSS,React
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me : monnialessandro05@gmail.com
 
